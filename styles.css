@@ -1,0 +1,8 @@
+body {
+    background:blanchedalmond;     /* red, blue, yellow, etc */
+    color: violet;  /* red, blue, yellow, etc */
+    font-size: 70px;        /* 0px - 100px and beyond */
+    font-weight: bold;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 120px;        /* From 0px and upwards   */
+}
